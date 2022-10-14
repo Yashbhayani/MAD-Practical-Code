@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Conversion</string>
+    <string name="currency_conveter">Currency Conveter</string>
+
+    <string-array name="location" >
+        <item>INR</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>KWD</item>
+    </string-array>
+</resources>

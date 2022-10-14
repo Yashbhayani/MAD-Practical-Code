@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practical4</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second Number</string>
+    <string name="answer">Answer</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="multi">X</string>
+    <string name="divi">÷</string>
+    <string name="mod">%</string>
+</resources>
